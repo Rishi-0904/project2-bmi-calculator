@@ -1,0 +1,55 @@
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+
+  h2 {
+    margin-top: 30px;
+  }
+
+  form {
+    margin: 20px auto;
+    display: inline-block;
+    text-align: left;
+    background-color: #666;
+    padding: 20px;
+    border-radius: 5px;
+  }
+
+  label {
+    display: inline-block;
+    width: 120px;
+    margin-bottom: 10px;
+  }
+
+  input {
+    padding: 5px;
+    margin-bottom: 15px;
+    width: 150px;
+  }
+
+  form button {
+    display: block;
+    margin: 10px auto;
+    background-color: white;
+    font-weight: bold;
+    border-radius: 4px;
+  }
+
+  h3 {
+    margin-top: 30px;
+    text-decoration: underline;
+  }
+
+  p {
+    margin: 5px 0;
+  }
+  #height{
+    margin: 10px auto;
+    width: 200px;
+
+
+  }
